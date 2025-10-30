@@ -5,13 +5,11 @@ Analyze sales data to uncover trends, profit drivers, and underperforming catego
 
 ## Tools Used
 - Power BI
-- Excel
+- Power Query
 - DAX Calculations
 
 ## Key Insights
-- West region contributes 35% of total sales.
+- West region contributes 33% of total sales.
 - Technology category has highest profit margin (18%).
 - Top 5 products drive 40% of total revenue.
 
-## Dashboard Preview
-![Sales Dashboard](./dashboard/sales_dashboard.png)
