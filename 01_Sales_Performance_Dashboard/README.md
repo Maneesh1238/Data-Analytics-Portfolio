@@ -1,4 +1,4 @@
-#  Sales Performance Dashboard
+#  Superstore_sales Dashboard
 
 ## Objective
 Analyze sales data to uncover trends, profit drivers, and underperforming categories.
